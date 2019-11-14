@@ -69,9 +69,11 @@
                                   </option>
                                   <option name="values">
                                     <map>
+                                      <entry key="assetType" value="IMAGE" />
+                                      <entry key="imageAsset" value="C:\Users\Gabi\Desktop\friends.png" />
                                       <entry key="outputName" value="phone" />
                                       <entry key="theme" value="CUSTOM" />
-                                      <entry key="themeColor" value="010101" />
+                                      <entry key="themeColor" value="fefffd" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -104,6 +106,23 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                      <entry key="foregroundText">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="color" value="000000" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="foregroundImage" value="C:\Users\Gabi\Desktop\friends.png" />
+                                      <entry key="outputName" value="ic_friends" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -151,11 +170,6 @@
                                 </PersistentState>
                               </value>
                             </entry>
-                          </map>
-                        </option>
-                        <option name="values">
-                          <map>
-                            <entry key="outputIconType" value="ACTIONBAR" />
                           </map>
                         </option>
                       </PersistentState>
